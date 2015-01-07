@@ -1,3 +1,5 @@
+#!/usr/bin/env python 
+
 __author__ = 'ErgoZ'
 from flask.ext.sqlalchemy import SQLAlchemy
 from flask.ext.script import Manager

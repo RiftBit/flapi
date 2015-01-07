@@ -1,4 +1,4 @@
-#!flask/bin/python
+#!/usr/bin/env python
 # -*- coding: utf8 -*-
 
 from coverage import coverage
