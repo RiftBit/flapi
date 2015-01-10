@@ -7,7 +7,6 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-tmp/*
 env/
 build/
 develop-eggs/
@@ -56,3 +55,5 @@ target/
 
 # pycharm
 .idea/
+
+#temp files
