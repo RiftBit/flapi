@@ -57,3 +57,5 @@ target/
 .idea/
 
 #temp files
+tmp/*
+!tmp/dir.tmp
