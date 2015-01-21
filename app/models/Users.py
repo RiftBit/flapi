@@ -14,4 +14,4 @@ class User(db.Model):
             return str(self.id)  # python 3
 
     def __repr__(self):  # pragma: no cover
-        return '<User %r>' % (self.login)
+        return '<User %r>' % self.login

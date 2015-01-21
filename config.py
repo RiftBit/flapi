@@ -24,4 +24,9 @@ ADMINS = ['admin@@site.ru']
 # pagination
 MAX_SEARCH_RESULTS = 50
 
+PRODUCTION = False
+
+APP_HOST = '0.0.0.0'
+APP_PORT = 80
+
 API_URL = '/api'
