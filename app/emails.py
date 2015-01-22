@@ -1,7 +1,7 @@
 from flask import current_app
 from flask.ext.mail import Message
 from app import mail
-from .decorators import async
+from lib.decorators import async
 
 
 @async
